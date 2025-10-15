@@ -1,0 +1,1 @@
+پلاگین @module-federation/vite که از حالت توسعه (dev mode) پشتیبانی می‌کند

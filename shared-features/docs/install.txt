@@ -1,0 +1,4 @@
+npm create vue@latest shared-features
+
+npm install @module-federation/vite --save-dev
+

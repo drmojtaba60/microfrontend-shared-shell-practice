@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import './base.css';
+
+body {
+  font-family: 'Vazirmatn', sans-serif;
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  background: #ddd;
+}
+body * {
+  font-family: 'Vazirmatn', sans-serif;
+  font-size: .75rem;
+
+}
+input[type=text]{
+  @apply px-2 py-1 text-sm leading-tight;
+}
+button {
+  @apply rounded-2xl px-2 py-1 text-sm leading-tight;
+}
+.p-dialog-header{
+  @apply border-b border-gray-200;
+}

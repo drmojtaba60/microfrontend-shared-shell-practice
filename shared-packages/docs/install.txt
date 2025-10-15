@@ -1,0 +1,3 @@
+npm i tailwindcss -D
+
+npm install -D tailwindcss@latest postcss@latest   autoprefixer@latest   @tailwindcss/forms@latest   @tailwindcss/typography@latest   @tailwindcss/aspect-ratio@latest   tailwindcss-rtl@latest
